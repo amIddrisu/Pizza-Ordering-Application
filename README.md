@@ -7,3 +7,4 @@ Clients have the option to choose from a set of numbers to:
 Know the type of pizzas available
 the cost of each pizza on the menu
 order a preferred pizza
+Delivery time
